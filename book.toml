@@ -1,0 +1,6 @@
+[book]
+authors = ["古镇天Gugle"]
+language = "en"
+multilingual = false
+src = "src"
+title = "校园Go API文档"
